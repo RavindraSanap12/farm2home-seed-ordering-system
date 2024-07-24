@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/src/java/com/DAO/ProductDAOimpl.java</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/src/java/com/admin/servlet/ProductAdd.java</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/login.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/admin/editproducts.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/src/java/com/entity/ProductDetails.java</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/src/java/com/admin/servlet/ProductsDeleteServlet.java</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/admin/home.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/allsources/allcss.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/admin/navbar.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/admin/allcss.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/src/java/com/user/servlet/LogoutServlet.java</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/viewproduct.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/allsources/navbar.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/src/java/com/DAO/UserDAOimpl.java</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/src/java/com/DAO/UserDAO.java</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/src/java/com/user/servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/src/java/com/admin/servlet/EditProductsServlet.java</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/src/java/com/entity/User.java</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/allrecentproducts.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/src/java/com/user/servlet/RegisterServlet.java</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/alloldproducts.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/admin/footer.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/register.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/admin/allproducts.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/admin/addproducts.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/index.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/home.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/src/java/com/DAO/ProductDAO.java</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/src/java/com/DB/DBConnect.java</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/admin/orders.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/allnewproducts.jsp</file>
+            <file>file:/C:/Users/Ravindra%20Sanap/OneDrive/Documents/NetBeansProjects/Farm2HomeOrganics/web/allsources/footer.jsp</file>
+        </group>
+    </open-files>
+</project-private>
